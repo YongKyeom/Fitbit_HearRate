@@ -1,8 +1,8 @@
-# HeartRate_KYK
+# Fitbit data analysis
 
 # Description
 * To study data analysis with Fitbit's heart rate data in my own account. This data has only KYK's Heart rate
-* Data source : Fibfit versa
+* Data source : Fibfit versa(wearable smart watch)
 * Collect data with Fitbit's API
 
 ## R-Script
